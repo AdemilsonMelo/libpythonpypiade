@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 link do curso [Python Pro](https://pythonpro.com.br/)
 
+[![Build Status](https://app.travis-ci.com/AdemilsonMelo/libpythonpypiade.svg?branch=main)](https://app.travis-ci.com/AdemilsonMelo/libpythonpypiade)
+
 Suportada versão 3 de Python
 
 Para instalar:
