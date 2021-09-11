@@ -8,6 +8,7 @@ link do curso [Python Pro](https://pythonpro.com.br/)
 [![Build Status](https://app.travis-ci.com/AdemilsonMelo/libpythonpypiade.svg?branch=main)](https://app.travis-ci.com/AdemilsonMelo/libpythonpypiade)
 [![Updates](https://pyup.io/repos/github/AdemilsonMelo/libpythonpypiade/shield.svg)](https://pyup.io/repos/github/AdemilsonMelo/libpythonpypiade/)
 [![Python 3](https://pyup.io/repos/github/AdemilsonMelo/libpythonpypiade/python-3-shield.svg)](https://pyup.io/repos/github/AdemilsonMelo/libpythonpypiade/)
+[![codecov](https://codecov.io/gh/AdemilsonMelo/libpythonpypiade/branch/main/graph/badge.svg?token=T4RBMJMTLQ)](https://codecov.io/gh/AdemilsonMelo/libpythonpypiade)
 
 Suportada versão 3 de Python
 
