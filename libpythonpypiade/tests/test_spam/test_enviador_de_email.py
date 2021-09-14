@@ -10,7 +10,7 @@ def test_criar_enviador_de_emal():
 
 @pytest.mark.parametrize(
     'remetente',
-    ['foo@bar.com.br', 'renzo@python.pro.br' ]
+    ['foo@bar.com.br', 'renzo@python.pro.br']
 )
 def test_remetente(remetente):
     enviador = Enviador()
@@ -35,4 +35,4 @@ def test_remetente_invalido(remetente):
             'luciano@python.pro.br',
             'Cursos Python Pro',
             'Primeira turma Guido Von Rossum aberta.'
-    )
+        )
